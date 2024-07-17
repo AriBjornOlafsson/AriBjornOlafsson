@@ -8,7 +8,7 @@ I am genuinely passionate about technology. I do what I love, and I love what I 
 
 Any cultural claims are anecdotal and not based on any real evidence. These are my observations and my opinions. 
 
-This is the public / personal GitHub account of Ari Björn Ólafsson with programming jokes, job entrance tasks, random ideas and personal whimsical projects throughout the years. It does not reflect my actual volume of activity, because I have often throughput my career been politely asked to use a company managed github account rather than my own. 
+This is the public / personal GitHub account of Ari Björn Ólafsson with programming jokes, job entrance tasks, random ideas and personal whimsical projects throughout the years. It does not reflect my actual volume of activity, because I have often through my career been politely asked to use a company managed github account rather than my own. 
 
 The culture in Iceland around GitHub accounts is changing, and more often, people are starting to bring in their own GitHub accounts to a job; and are onboarded via Organization Access to have the access revoked when changing jobs. This would result in a more solid contribution history chart - versus - when using a disposable account, for every single job. 
 
