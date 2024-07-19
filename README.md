@@ -146,11 +146,11 @@ Here are some notable repositories on this GitHub account to get you started:
 
 ## Personal Insights
 
-Ari’s diverse experience and achievements underscore his ability to integrate technology to solve real-world problems across various sectors, from healthcare, to aviation and banking to travel and urban planning. His contributions to the Icelandic tech community and various innovative projects highlight his commitment to leveraging technology for practical and impactful solutions.
+My diverse experience and achievements underscores the ability to integrate technology to solve real-world problems across various sectors, from healthcare, to aviation and banking to travel and urban planning. My contributions to the Icelandic, Spanish and English tech community and various innovative projects highlight the commitment to leveraging technology for practical and impactful solutions.
 
 ### Future Goals
 
-Ari aims to continue exploring new technologies and innovative solutions, with a focus on enhancing user experience and operational efficiency in various industries. His ongoing projects include further development of CrewApp and exploring new ventures in the tech startup ecosystem.
+I aim to continue exploring new technologies and innovative solutions, with a focus on enhancing user experience and operational efficiency in various industries. Ongoing projects include further development of CrewApp and exploring new ventures in the tech-startup ecosystem.
 
 ## Misc.
 
@@ -160,4 +160,3 @@ Ari aims to continue exploring new technologies and innovative solutions, with a
 	- The result of my work ended with large scale production and global acclaim.
 - Extremely positive reviews on AirBnb.
 - 4.86 stars on Uber over 100+ fares.
-- Been abroad 50 times to 20 countries. 
