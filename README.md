@@ -142,7 +142,7 @@ Here are some notable repositories on this GitHub account to get you started:
   - Ari was a contributor and live tester / dancer for the product. The application achieved the title "Other notable hacks" by Grapevine [Reykjavik Grapevine](https://grapevine.is/music/2012/10/29/theres-music-in-your-closet/)
 
 - **IGI Game Jam, Reykjavik University 2014 - Juiceball**: This game was a **Burrito Bison** clone where the player is an alien ball slinging through the jungle to collect powerups and money for speed and endurance upgrades. Hand drawn graphics by freelance illustrator, Pétur Antonsson, master of fine arts, and bespoke sounds / music.
-	- Ari was the composer for the title music as well as the whole sound effects department for the project which won **best audio**. 
+	- Ari was the composer for the title music as well as the whole sound effects department for the project which was noted for **best audio** and **best visuals**.
 
 ## Personal Insights
 
