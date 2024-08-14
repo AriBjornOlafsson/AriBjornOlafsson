@@ -154,9 +154,14 @@ I aim to continue exploring new technologies and innovative solutions, with a fo
 
 ## Misc.
 
-- 2015 I worked as a production line assistant manager at the Síldarvinnslan fish powder factory for a summer season of 6 months.
-- 2014 I was a prison guard in the now retired prison in downtown Reykjavik for a summer season of 6 months.
-- I was a production manager and a human resource manager for a research project of sustainable fashion / fabric use of seaweed.
-	- The result of my work ended with large scale production and global acclaim.
+- 2017 I Co-produced and managed the release of a Various Artists CD of Icelandic Drum N Bass [Icebreaker Vol. 1 - Discogs](https://www.discogs.com/release/16769745-Various-Icebreaker)
+- 2015 I worked as a production line assistant manager at the Síldarvinnslan fish powder factory for a summer season of 6 months. [Síldarvinnslan](https://svn.is/)
+- 2014 I was a prison guard in the now retired prison in downtown Reykjavik for a summer season of 6 months. [Fangelsismálastofnun](https://www.fangelsi.is/)
+- I was a production manager and a human resource manager for a research project of sustainable fashion / fabric use of seaweed. 
+	- The result of my work ended with large scale media production and global critical acclaim as well as very successful hires.
+   [Emblamar Studio](https://emblamarstudio.com/)
+
+## Interesting facts
+
 - Extremely positive reviews on AirBnb.
 - 4.86 stars on Uber over 100+ fares.
