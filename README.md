@@ -25,7 +25,7 @@ Here are some notable repositories on this GitHub account to get you started:
 - This script determines a game's rank on Steam's popular wishlist and caches the data for quick subsequent lookups.
 - **Skills Demonstrated**: Proficiency in Python, handling HTTP parallel requests, caching data, working with standard libraries like urllib and json, and developing efficient automation scripts.
 - **Additional Comments**: An over-all user-friendly project. [Link](https://github.com/Jungle-M16/steam_game_wishlist_rank_finder)
-- 
+
 ---
 
 Here are some notable repositories on this GitHub account to get you started:
