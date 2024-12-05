@@ -20,6 +20,16 @@ I will refer to myself in **third person** following this statement.
 
 Here are some notable repositories on this GitHub account to get you started:
 
+## **Steam game popular wishlist rank finder**
+
+- This script determines a game's rank on Steam's popular wishlist and caches the data for quick subsequent lookups.
+- **Skills Demonstrated**: Proficiency in Python, handling HTTP parallel requests, caching data, working with standard libraries like urllib and json, and developing efficient automation scripts.
+- **Additional Comments**: An over-all user-friendly project. [Link](https://github.com/Jungle-M16/steam_game_wishlist_rank_finder)
+- 
+---
+
+Here are some notable repositories on this GitHub account to get you started:
+
 ## **Python Font Glyph Extractor**
 
 - This script extracts glyphs from a WOFF2 font file and saves them as individual SVG files.
