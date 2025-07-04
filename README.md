@@ -115,7 +115,7 @@ Here are some notable repositories on this GitHub account to get you started:
 
 ## Professional Contributions
 
-- **CrewApp ehf**: Currently, Ari works as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
+- **CrewApp ehf**: Recently, Ari worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
 
 - **Travelshift**: Ari was instrumental in the development of vacation packages, dynamic pricing calculations, and the implementation of a new payment handler for Travelshift's sales system. His contributions resulted in significant monthly savings for the company.
 
