@@ -163,6 +163,7 @@ I aim to continue exploring new technologies and innovative solutions, with a fo
 - 2017 I Co-produced and managed the release of a Various Artists CD of Icelandic Drum N Bass [Icebreaker Vol. 1 - Discogs](https://www.discogs.com/release/16769745-Various-Icebreaker)
 - 2015 I worked as a production line assistant manager at the Síldarvinnslan fish powder factory for a summer season of 6 months. [Síldarvinnslan](https://svn.is/)
 - 2014 I was a prison guard in the now retired prison in downtown Reykjavik for a summer season of 6 months. [Fangelsismálastofnun](https://www.fangelsi.is/)
+- 2014 / 2015 I was a production assistant as well as one of the interviewees for award winning and nominee Art Documentaries by Swiss director [Aurèle Ferrier](https://aureleferrier.ch/) Infrastructures and Desert Talks. 
 - I was a production manager and a human resource manager for a research project of sustainable fashion / fabric use of seaweed. 
 	- The result of my work ended with large scale media production and global critical acclaim as well as very successful hires.
    [Emblamar Studio](https://emblamarstudio.com/)
