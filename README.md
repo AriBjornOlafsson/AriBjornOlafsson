@@ -115,7 +115,9 @@ Here are some notable repositories on this GitHub account to get you started:
 
 ## Professional Contributions
 
-- **CrewApp ehf**: Recently, Ari worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
+- **SÝN hf.** (Current): Software Developer in the web team at Sýn. A publicly traded telecom / media corporation in Iceland.
+
+- **CrewApp ehf.**: Recently, Ari worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
 
 - **Travelshift**: Ari was instrumental in the development of vacation packages, dynamic pricing calculations, and the implementation of a new payment handler for Travelshift's sales system. His contributions resulted in significant monthly savings for the company.
 
@@ -124,7 +126,7 @@ Here are some notable repositories on this GitHub account to get you started:
 
 - **Parka Camping - Yfirsýn**: As the head of this application during his tenure at Parka Lausnir, then known as Computer Vision ehf., Ari’s leadership helped secure $150k funding from the Icelandic government. The project uses computer vision technology to improve camping security and billing, supported by the Icelandic Technology Development Fund for spring season grants in 2021. [Rannís](https://www.rannis.is/frettir/taeknithrounarsjodur/voruthlutun-taeknithrounarsjods-2021)
 
-- **Senior Software Developer for TripCreator**: Ari contributed to TripCreator’s itinerary creation platform for travel agents and Destination Management Companies (DMC) on behalf of Joroma Software.
+- **Senior Software Developer for TripCreator**: Ari contributed to TripCreator’s itinerary creation platform for travel agents and Destination Management Companies (DMC) on behalf of **Joroma** Software.
 
 - **Senior Developer for Tix Ticketing**: As a Senior Developer for Tix Ticketing, Ari was crucial in creating a secure access group system for admin users. He integrated the ticket sales system with the Belgian UitPas system, allowing people to buy tickets with government subsidies. Ari also developed some of the platform's largest and most detailed automatic reports. Additionally, he built a full audit trail system with fast lookup and report generation, significantly improving the platform's security and performance. [Tixly](https://tixly.com/)
 
