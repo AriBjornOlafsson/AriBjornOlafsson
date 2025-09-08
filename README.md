@@ -117,28 +117,28 @@ Here are some notable repositories on this GitHub account to get you started:
 
 - **SÝN hf.** (Current): Software Developer in the web team at Sýn. A publicly traded telecom / media corporation in Iceland.
 
-- **CrewApp ehf.**: Recently, Ari worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
+- **CrewApp ehf.**: Recently worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
 
-- **Travelshift**: Ari was instrumental in the development of vacation packages, dynamic pricing calculations, and the implementation of a new payment handler for Travelshift's sales system. His contributions resulted in significant monthly savings for the company.
+- **Travelshift**: Instrumental in the development of vacation packages, dynamic pricing calculations, and the implementation of a new payment handler for Travelshift's sales system. His contributions resulted in significant monthly savings for the company.
 
-- **Keeps CMS**: Ari contributed to conceptualizing the technical aspects of the Keeps CMS solution for their presentation at KLAK Startup Supernova. This product aims to centralize photo management and enhance visibility on booking sites and social media. Developed alongside a team of travel professionals.  [Klak](https://klak.is/en/the-most-viable-startups-in-the-country-i-startup-supernova/).
+- **Keeps CMS**: Contributed to conceptualizing the technical aspects of the Keeps CMS solution for their presentation at KLAK Startup Supernova. This product aims to centralize photo management and enhance visibility on booking sites and social media. Developed alongside a team of travel professionals.  [Klak](https://klak.is/en/the-most-viable-startups-in-the-country-i-startup-supernova/).
 	- Following the successful startup accelerator presentation by CEO Guðrún, the remaining members of the team, excluding Ari, went on to further pursue the idea, forma a company and secure investment. [Viðskiptablaðið](https://vb.is/frettir/tryggja-ser-fyrstu-englafjarmognun-nordic-ignite/)
 
 - **Parka Camping - Yfirsýn**: As the head of this application during his tenure at Parka Lausnir, then known as Computer Vision ehf., Ari’s leadership helped secure $150k funding from the Icelandic government. The project uses computer vision technology to improve camping security and billing, supported by the Icelandic Technology Development Fund for spring season grants in 2021. [Rannís](https://www.rannis.is/frettir/taeknithrounarsjodur/voruthlutun-taeknithrounarsjods-2021)
 
-- **Senior Software Developer for TripCreator**: Ari contributed to TripCreator’s itinerary creation platform for travel agents and Destination Management Companies (DMC) on behalf of **Joroma** Software.
+- **Senior Software Developer for TripCreator**: Cntributed to TripCreator’s itinerary creation platform for travel agents and Destination Management Companies (DMC) on behalf of **Joroma** Software.
 
-- **Senior Developer for Tix Ticketing**: As a Senior Developer for Tix Ticketing, Ari was crucial in creating a secure access group system for admin users. He integrated the ticket sales system with the Belgian UitPas system, allowing people to buy tickets with government subsidies. Ari also developed some of the platform's largest and most detailed automatic reports. Additionally, he built a full audit trail system with fast lookup and report generation, significantly improving the platform's security and performance. [Tixly](https://tixly.com/)
+- **Senior Developer for Tix Ticketing**: As a Senior Developer for Tix Ticketing, crucial in creating a secure access group system for admin users. He integrated the ticket sales system with the Belgian UitPas system, allowing people to buy tickets with government subsidies. Ari also developed some of the platform's largest and most detailed automatic reports. Additionally, he built a full audit trail system with fast lookup and report generation, significantly improving the platform's security and performance. [Tixly](https://tixly.com/)
 
-- **Santander**: Following his hackathon team success, Ari contributed to technological advancements at Santander in Milton Keynes for one and a healf year before moving back to Iceland. [Youtube - Open Bank Project](https://www.youtube.com/watch?v=4foqap-dKb8)
+- **Santander**: Following his hackathon team success, contributed to technological advancements at Santander in Milton Keynes for one and a healf year before moving back to Iceland. [Youtube - Open Bank Project](https://www.youtube.com/watch?v=4foqap-dKb8)
 
-- **Overtune**: Ari was a contributor during the early stages of Overtune, a music content creation app. [Viðskiptablaðið](https://vb.is/frettir/stofnandi-guitar-hero-medal-fjarfesta/)
+- **Overtune**: was a contributor during the early stages of Overtune, a music content creation app. [Viðskiptablaðið](https://vb.is/frettir/stofnandi-guitar-hero-medal-fjarfesta/)
 
-- **Tri.is Cycles Website**: Ari as a member of a larger team built the Tri.is website from scratch, ensuring it is immensely responsive and fast, significantly enhancing its functionality and user experience. [Tri.is](https://tri.is)
+- **Tri.is Cycles Website**: as a member of a larger team built the Tri.is website from scratch, ensuring it is immensely responsive and fast, significantly enhancing its functionality and user experience. [Tri.is](https://tri.is)
 
 ## Hackathon Successes
 
-- **Santander Hackathon 2018**: Ari secured a podium finish at the "Build Banking Your Way" event, winning the Best Technical Solution award for the project **I am ID**, which focused on authentication for banking systems. His success at the hackathon led to a job offer from Santander.
+- **Santander Hackathon 2018**: Secured a podium finish at the "Build Banking Your Way" event, winning the Best Technical Solution award for the project **I am ID**, which focused on authentication for banking systems. His success at the hackathon led to a job offer from Santander.
 
 - **TM Software / Digi.me Hackathon 2017**: Participated in developing an iOS app that integrated with official healthcare data. The app allowed users to input various drugs to check for potential hazardous interactions and travel plans to identify necessary vaccinations. It used both scientific and street names for drugs and provided detailed severity levels for interactions.
 	- Awarded $2000 for second place in the contest.
