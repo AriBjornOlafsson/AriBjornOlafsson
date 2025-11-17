@@ -158,7 +158,7 @@ My diverse experience and achievements underscores the ability to integrate tech
 
 ### Future Goals
 
-I aim to continue exploring new technologies and innovative solutions, with a focus on enhancing user experience and operational efficiency in various industries. Ongoing projects include further development of CrewApp and exploring new ventures in the tech-startup ecosystem.
+I aim to continue exploring new technologies and innovative solutions, with a focus on enhancing user experience and operational efficiency in various industries. Ongoing projects include further development of the Sýn software stack and exploring new ventures in the tech-startup ecosystem.
 
 ## Misc.
 
