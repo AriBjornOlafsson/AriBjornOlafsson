@@ -62,7 +62,7 @@ Here are some notable repositories on this GitHub account to get you started:
 
 - Companion application to the Article Database Connector, consuming its API to demonstrate interaction and data retrieval.
 - **Skills Demonstrated**: API consumption, application integration, and client-server interaction.
-- **Additional Comments**: Clear linkage between this project and the Article Database Connector. Ensure the documentation highlights the practical use cases and benefits of consuming APIs in this context. [Link](https://github.com/Jungle-M16/ArticleApiConsumer)
+- **Additional Comments**: Clear linkage between this project and the Article Database Connector. [Link](https://github.com/Jungle-M16/ArticleApiConsumer)
 
 ---
 
