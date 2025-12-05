@@ -115,7 +115,7 @@ Here are some notable repositories on this GitHub account to get you started:
 
 ## Professional Contributions
 
-- **SÝN hf.** (Current): Full-stack Software Developer on the Web team at Sýn — Iceland’s publicly traded telecom/media corporation. I work across frontend, API, and backend systems powering national-scale digital platforms, live content delivery, and operational tooling. My role spans everything from React/TypeScript interfaces to .NET service development and AWS infrastructure design, including CI/CD, ECS workloads, S3/SQS pipelines, and Terraform-driven modernization efforts.
+- **SÝN hf.** (Current): Full-stack Software Developer on the Web team at Sýn — Iceland’s publicly traded telecom/media corporation. Work across frontend, API, and backend systems powering national-scale digital platforms, live content delivery, and operational tooling. The role spans everything from React/TypeScript interfaces to .NET service development and AWS infrastructure design, including CI/CD, ECS workloads, S3/SQS pipelines, and Terraform-driven modernization efforts.
 
 - **CrewApp ehf.**: Recently worked as a software developer in the airline and aviation IT sector. CrewApp aids aviation crew members and ground staff in managing flight operations, enhancing efficiency and operational management.
 
