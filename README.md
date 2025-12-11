@@ -1,4 +1,7 @@
-Ari Björn Ólafsson is a software developer from Reykjavik, Iceland with years of versatile experience in different sectors ranging from banking, aviation, machine learning, travel tech, business operations, car parking, fisheries logistics, payments, ticket systems, government backed research, information security, cartography, multimedia, web technologies and more.  
+<details>
+    <summary><strong>Details</strong></summary>
+	
+	Ari Björn Ólafsson is a software developer from Reykjavik, Iceland with years of versatile experience in different sectors ranging from banking, aviation, machine learning, travel tech, business operations, car parking, fisheries logistics, payments, ticket systems, government backed research, information security, cartography, multimedia, web technologies and more.  
 
 Often intrigued by hackathons or startup accelerators, I have, with consistent success, competed in software, hacking or business related events throughout the years, teamed up with friends, family and colleagues. 
 
@@ -174,4 +177,5 @@ I aim to continue exploring new technologies and innovative solutions, with a fo
 
 - Extremely positive reviews on AirBnb.
 - 4.86 stars on Uber over 100+ fares.
+</details>
 
