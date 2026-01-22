@@ -141,6 +141,8 @@ Here are some notable repositories on this GitHub account to get you started:
 
 ## Hackathon Successes
 
+- **Gervigreindarkeppni Íslands 2026**: With a team of scientists, participated in open division, among the several highest scoring teams over all. [Gervigreindarkeppni Íslands](https://gervigreindarkeppni.is/)
+
 - **Santander Hackathon 2018**: Secured a podium finish at the "Build Banking Your Way" event, winning the Best Technical Solution award for the project **I am ID**, which focused on authentication for banking systems. His success at the hackathon led to a job offer from Santander.
 
 - **TM Software / Digi.me Hackathon 2017**: Participated in developing an iOS app that integrated with official healthcare data. The app allowed users to input various drugs to check for potential hazardous interactions and travel plans to identify necessary vaccinations. It used both scientific and street names for drugs and provided detailed severity levels for interactions.
